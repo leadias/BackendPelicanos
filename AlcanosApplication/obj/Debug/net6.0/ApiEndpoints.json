@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "AlcanosApplication.Controllers.EnfermedadesController",
+    "Method": "Get",
+    "RelativePath": "api/Enfermedades",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlcanosApplication.Controllers.EnfermedadesController",
+    "Method": "Store",
+    "RelativePath": "api/Enfermedades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "enfermedad",
+        "Type": "AlcanosApplication.Models.Enfermedad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AlcanosApplication.Controllers.EnfermedadesController",
+    "Method": "Put",
+    "RelativePath": "api/Enfermedades/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "value",
+        "Type": "AlcanosApplication.Models.Enfermedad",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|c:\\users\\user\\documents\\tecnica pactia\\backend\\alcanosapplication\\alcanosapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|solutionrelative:alcanosapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|c:\\users\\user\\documents\\tecnica pactia\\backend\\alcanosapplication\\alcanosapplication\\controllers\\enfermedadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|solutionrelative:alcanosapplication\\controllers\\enfermedadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|c:\\users\\user\\documents\\tecnica pactia\\backend\\alcanosapplication\\alcanosapplication\\models\\dbapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|solutionrelative:alcanosapplication\\models\\dbapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|c:\\users\\user\\documents\\tecnica pactia\\backend\\alcanosapplication\\alcanosapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|solutionrelative:alcanosapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|c:\\users\\user\\documents\\tecnica pactia\\backend\\alcanosapplication\\alcanosapplication\\models\\enfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F45184-4B12-4193-BE70-D26A01328226}|AlcanosApplication\\AlcanosApplication.csproj|solutionrelative:alcanosapplication\\models\\enfermedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enfermedad.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Models\\Enfermedad.cs",
+              "RelativeDocumentMoniker": "AlcanosApplication\\Models\\Enfermedad.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Models\\Enfermedad.cs",
+              "RelativeToolTip": "AlcanosApplication\\Models\\Enfermedad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:45:56.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Models\\DBAPIContext.cs",
+              "RelativeDocumentMoniker": "AlcanosApplication\\Models\\DBAPIContext.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Models\\DBAPIContext.cs",
+              "RelativeToolTip": "AlcanosApplication\\Models\\DBAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:40:05.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Program.cs",
+              "RelativeDocumentMoniker": "AlcanosApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Program.cs",
+              "RelativeToolTip": "AlcanosApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:32:50.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnfermedadesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Controllers\\EnfermedadesController.cs",
+              "RelativeDocumentMoniker": "AlcanosApplication\\Controllers\\EnfermedadesController.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\Controllers\\EnfermedadesController.cs",
+              "RelativeToolTip": "AlcanosApplication\\Controllers\\EnfermedadesController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T20:57:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "AlcanosApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Tecnica pactia\\Backend\\AlcanosApplication\\AlcanosApplication\\appsettings.json",
+              "RelativeToolTip": "AlcanosApplication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T21:49:10.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
